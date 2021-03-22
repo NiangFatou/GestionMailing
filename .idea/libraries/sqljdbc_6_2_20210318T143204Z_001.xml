@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="sqljdbc_6.2-20210318T143204Z-001">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/adaptive" />
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/alwaysencrypted" />
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/connections" />
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/datatypes" />
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/resultsets" />
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_6.2-20210318T143204Z-001.zip!/sqljdbc_6.2/fra/samples/sparse" />
+    </SOURCES>
+  </library>
+</component>
